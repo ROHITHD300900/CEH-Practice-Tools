@@ -159,7 +159,7 @@ Contributions are welcome! Feel free to:
 ## 📞 Connect
 
 - **GitHub**: [@ROHITHD300900](https://github.com/ROHITHD300900)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohith-d)
+- **LinkedIn**: [Rohith D](https://www.linkedin.com/in/rohith-d-a46aaa288/)
 
 ## 📄 License
 
