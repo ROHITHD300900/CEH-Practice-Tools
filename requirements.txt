@@ -1,0 +1,14 @@
+# CEH Practice Tools - Python Dependencies
+
+# For Password Checker colored output
+colorama>=0.4.6
+
+# For Network Scanner (when implemented)
+# scapy>=2.5.0
+# python-nmap>=0.7.1
+
+# For Packet Sniffer (when implemented)
+# scapy>=2.5.0
+
+# General utilities
+# requests>=2.31.0
